@@ -1,0 +1,1 @@
+[user] name = testpashek email = test.pashek@gmail.com
