@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-11asas
+11asasBBBBBBB
 2222
 3aaaaaa
 4
