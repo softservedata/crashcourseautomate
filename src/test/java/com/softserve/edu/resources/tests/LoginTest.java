@@ -74,7 +74,7 @@ public class LoginTest {
 		registeredUsersHomePage.setFirstnameInput(newUser.getFirstname());
 		//
 		// Check
-		Assert.assertEquals(registeredUsersHomePage.getFirstnameInputText(), newUser.getFirstname()+"111");
+		Assert.assertEquals(registeredUsersHomePage.getFirstnameInputText(), newUser.getFirstname());
 		Thread.sleep(2000);
 		//
 		// Return to previous state
