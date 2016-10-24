@@ -6,18 +6,18 @@ public final class UserRepository {
 	}
 
 	public static User getAdmin() {
-		return new User("Àäì³í³ñòğàòîğ", "Àäì³í³ñòğàòîğ",
-				"admin@admin.com", "admin", "admin", "Óêğà¿íà");
+		return new User("ĞĞ´Ğ¼Ñ–Ğ½Ñ–ÑÑ‚Ñ€Ğ°Ñ‚Ğ¾Ñ€", "ĞĞ´Ğ¼Ñ–Ğ½Ñ–ÑÑ‚Ñ€Ğ°Ñ‚Ğ¾Ñ€",
+				"admin@admin.com", "admin", "admin", "Ğ£ĞºÑ€Ğ°Ñ—Ğ½Ğ°");
 	}
 
 	public static User getRegistrator() {
 		return new User("registrator", "registrator",
-				"harasym@mail.ua", "registrator", "registrator", "Óêğà¿íà");
+				"harasym@mail.ua", "registrator", "registrator", "Ğ£ĞºÑ€Ğ°Ñ—Ğ½Ğ°");
 	}
 
 	public static User getNewUser() {
-		return new User("registrator1", "registrator1",
-				"harasym@mail.ua", "registrator1", "registrator1", "Óêğà¿íà");
+		return new User("registrator13", "registrator1",
+				"harasym@gmail3.ua", "registrator1", "registrator1", "Ğ£ĞºÑ€Ğ°Ñ—Ğ½Ğ°");
 	}
 
 	// public static User getFromDB() {
